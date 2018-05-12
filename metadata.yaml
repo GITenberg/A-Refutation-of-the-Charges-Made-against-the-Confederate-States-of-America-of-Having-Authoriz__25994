@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31723'
     url: http://www.gutenberg.org/2009/agents/31723
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25994#A-Refutation-of-the-Charges-Made-against-the-Confederate-States-of-America-of-Having-Authoriz_
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2008-07-07'
 gutenberg_type: Text
