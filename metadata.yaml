@@ -1,0 +1,30 @@
+_repo: A-Refutation-of-the-Charges-Made-against-the-Confederate-States-of-America-of-Having-Authoriz__25994
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hayden, Horace Edwin
+    birthdate: 1837
+    deathdate: 1917
+    gutenberg_agent_id: '31723'
+    url: http://www.gutenberg.org/2009/agents/31723
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2008-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25994'
+  lccn: 02011281
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Confederate States of America'
+title: A Refutation of the Charges Made against the Confederate States of America
+  of Having Authorized the Use of Explosive and Poisoned Musket and Rifle Balls during
+  the Late Civil War of 1861-65
+url: http://www.gutenberg.org/ebooks/25994
